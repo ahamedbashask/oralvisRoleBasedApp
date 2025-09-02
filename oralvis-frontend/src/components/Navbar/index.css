@@ -1,0 +1,10 @@
+.navbar {
+    display: flex;
+    justify-content: flex-end;
+    padding: 5px 20px;
+}
+
+.logut-btn {
+    background-color: rgb(61, 61, 246);
+    color: #ffffff;
+}

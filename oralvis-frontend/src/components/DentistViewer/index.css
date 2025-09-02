@@ -1,0 +1,39 @@
+.patient-details-container {
+    height: 80vh;
+    padding: 20px;
+    
+}
+
+.patient-main-heading {
+    text-align: center;
+    margin-top: 0px;
+}
+
+.overflow-container {
+    overflow-y: auto;
+}
+
+.all-details {
+    margin: 10px;
+
+}
+
+.patient-details {
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
+
+.patient-heading {
+    margin: 0px;
+}
+.details {
+    margin: 0px;
+    margin-left: 5px;
+}
+
+.patient-btn {
+    margin: 10px;
+    background-color: rgb(60, 60, 224);
+    color: #ffffff;
+}
